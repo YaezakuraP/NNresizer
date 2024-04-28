@@ -1,3 +1,7 @@
+以下のサイトでも解説しています。（Japanese）
+
+https://qiita.com/YaezakuraP/items/aee14c5c1de52e8d1fe3
+
 # NNresizer
 Batch crop the images in the directory to square and resize them to any size.
 
@@ -23,3 +27,7 @@ python crop.py
 `Input resized size`: Resolution after resizing
 
 When the process is completed successfully, the `resized` directory is created in the target folder, and the resized images are stored in the directory.
+
+# Reference
+
+https://note.nkmk.me/python-pillow-image-crop-trimming/
