@@ -2,8 +2,8 @@
 Batch crop the images in the directory to square and resize them to any size.
 
 # Requirements
-OS:any
-Python Version:3.9 or later (Maybe wokred on before 3.9)
+- OS:any
+- Python Version:3.9 or later (Maybe wokred on before 3.9)
 
 # How to use
 ## 1. Install `Pillow` modules
